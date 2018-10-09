@@ -339,11 +339,10 @@ background: rgba(0,0,0, 0.7) !important;
     transition:0.2s;
 }
 
-/* Person Info Top part 1/2*/
+/* Person Info */
 .theme-dark .headerNormal-T_seeN {
     background-color: hsla(0,5%,0%,.3);
 }
-/* Person Info Top part 2/2*/
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
     background-color: hsla(0,5%,0%,.3);
     color: hsla(0,0%,100%,.8);
@@ -509,26 +508,13 @@ textarea {
 	background: transparent !important;
 }
 
-/* Server list area */
 .guilds-wrapper { background:rgba(0,0,0,0.6) !important }
 
-/* Channels list area */
 .channels-Ie2l6A { background:rgba(0,0,0,0.7) }
 
-/* Chat area */
 .content .flex-spacer { background:rgba(0,0,0,0.8) }
 
-/* User list area */
 .channel-members { background:rgba(0,0,0,0.9) !important }
-
-/*
- _              _ _   _           
-| |_ ___   ___ | | |_(_)_ __  ___ 
-| __/ _ \ / _ \| | __| | '_ \/ __|
-| || (_) | (_) | | |_| | |_) \__ \
- \__\___/ \___/|_|\__|_| .__/|___/
-					   |_|        
-*/
 
 .tooltip {
 	background: var(--accent-color);
